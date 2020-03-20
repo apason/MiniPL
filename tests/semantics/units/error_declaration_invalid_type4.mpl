@@ -1,0 +1,1 @@
+var b : bool := "lorem ipsum";

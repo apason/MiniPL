@@ -1,0 +1,1 @@
+print "Barak" - "Obama";

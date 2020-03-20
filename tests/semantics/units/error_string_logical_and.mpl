@@ -1,0 +1,1 @@
+print "logical" & "and";
